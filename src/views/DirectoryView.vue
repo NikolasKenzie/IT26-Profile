@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 
-
+//hehe
 interface Student {
   nim: string
   name: string
